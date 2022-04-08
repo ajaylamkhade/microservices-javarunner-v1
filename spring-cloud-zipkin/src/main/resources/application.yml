@@ -1,0 +1,10 @@
+server:
+  port: 9421
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+
+
+application:
+    name=zipkin-server:
